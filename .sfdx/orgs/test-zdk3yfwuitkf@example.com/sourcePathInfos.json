@@ -36,10 +36,10 @@
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1552359415494,
-            "changeTime": 1552359415494,
-            "contentHash": "96a62d8183c98bb78fa0e771ad893cec98eaa611"
+            "size": 352,
+            "modifiedTime": 1552359757512,
+            "changeTime": 1552359757512,
+            "contentHash": "5ab8bc1abbe5676a024c61ec7ef40a88e60f3b23"
         }
     ],
     [
@@ -155,14 +155,14 @@
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2117,
             "modifiedTime": 1552356549750,
             "changeTime": 1552359441120,
-            "contentHash": "cf487da2f26a22ad1be4e75d32da784a70267409"
+            "contentHash": "cf487da2f26a22ad1be4e75d32da784a70267409",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -233,14 +233,14 @@
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2188,
             "modifiedTime": 1552356549746,
             "changeTime": 1552359441085,
-            "contentHash": "3188b896e4bb29523e3250651410f11166af98c3"
+            "contentHash": "3188b896e4bb29523e3250651410f11166af98c3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -350,53 +350,53 @@
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5671,
-            "modifiedTime": 1552359317789,
-            "changeTime": 1552359317789,
-            "contentHash": "48ca475e4c56ed57f47d1f270ed82cfb7b089722",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9381,
+            "modifiedTime": 1552359757528,
+            "changeTime": 1552359757528,
+            "contentHash": "77c3b815bc0bb637bcd31ea043558207929fa9d6"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 5667,
-            "modifiedTime": 1552359317799,
-            "changeTime": 1552359317799,
-            "contentHash": "d132ec168d56d95bc10f2a6c708cc2d3f68cc327",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9377,
+            "modifiedTime": 1552359757538,
+            "changeTime": 1552359757538,
+            "contentHash": "c4a91ca4cf2a85bda7914440738fe56880a18a6f"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 20798,
-            "modifiedTime": 1552359317811,
-            "changeTime": 1552359317811,
-            "contentHash": "0ad19067df56d7cbd8c55f5faf834b29f8b1d72a",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 24508,
+            "modifiedTime": 1552359757577,
+            "changeTime": 1552359757577,
+            "contentHash": "4d6e09fc988f20bdd7db9edc5bc934fba71fc55d"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 6007,
-            "modifiedTime": 1552359317815,
-            "changeTime": 1552359317815,
-            "contentHash": "9ee08ab4171a2452352dda3441c84402faeefd82",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9717,
+            "modifiedTime": 1552359757583,
+            "changeTime": 1552359757583,
+            "contentHash": "002066f44a9789b9123918466b3cf04a1fab5a80"
         }
     ],
     [
@@ -428,66 +428,66 @@
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1552356549752,
             "changeTime": 1552359441135,
-            "contentHash": "eaf14d417b32852fd3f653efb1e519f7396add74"
+            "contentHash": "eaf14d417b32852fd3f653efb1e519f7396add74",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1552359447187,
             "changeTime": 1552359447187,
-            "contentHash": "3edbbd1c9711da49d82f4ec1771509d6e4dbc10d"
+            "contentHash": "3edbbd1c9711da49d82f4ec1771509d6e4dbc10d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1552359429246,
             "changeTime": 1552359429246,
-            "contentHash": "5d115660b7b8029545e7b5504a58b13aec986243"
+            "contentHash": "5d115660b7b8029545e7b5504a58b13aec986243",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1552359416836,
             "changeTime": 1552359416836,
-            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1552356549749,
             "changeTime": 1552359441101,
-            "contentHash": "38134bcf9f294dcd049214c768278a900408176e"
+            "contentHash": "38134bcf9f294dcd049214c768278a900408176e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -545,378 +545,430 @@
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1552356549752,
             "changeTime": 1552359441134,
-            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/listViews",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1552356549753,
             "changeTime": 1552359441122,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/listViews",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1552356549746,
             "changeTime": 1552359429289,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 416,
             "modifiedTime": 1552356549749,
             "changeTime": 1552359441100,
-            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/listViews",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1552356549750,
             "changeTime": 1552359441086,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2370,
             "modifiedTime": 1552356549750,
             "changeTime": 1552359441124,
-            "contentHash": "a52d697db569dd55d557f98e3e94629255b41470"
+            "contentHash": "a52d697db569dd55d557f98e3e94629255b41470",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 429,
             "modifiedTime": 1552356549751,
             "changeTime": 1552359441126,
-            "contentHash": "0cde8b5d662a6b8b9f5047d734f91cf45ea43d74"
+            "contentHash": "0cde8b5d662a6b8b9f5047d734f91cf45ea43d74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 580,
             "modifiedTime": 1552356549751,
             "changeTime": 1552359441129,
-            "contentHash": "ab1c408a333c2fa87953ec8e11d19db9f80c71ef"
+            "contentHash": "ab1c408a333c2fa87953ec8e11d19db9f80c71ef",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 445,
             "modifiedTime": 1552356549751,
             "changeTime": 1552359441125,
-            "contentHash": "ce715be47163ef8dce62dbc3ddb9c7359c812029"
+            "contentHash": "ce715be47163ef8dce62dbc3ddb9c7359c812029",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 480,
             "modifiedTime": 1552356549751,
             "changeTime": 1552359441128,
-            "contentHash": "7935d52948091f0e6224e45d92d9f5634d34881b"
+            "contentHash": "7935d52948091f0e6224e45d92d9f5634d34881b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 354,
             "modifiedTime": 1552356549752,
             "changeTime": 1552359441134,
-            "contentHash": "6ab3275ac9df347918e41f5d0b9b96c4af0e6f7a"
+            "contentHash": "6ab3275ac9df347918e41f5d0b9b96c4af0e6f7a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 432,
             "modifiedTime": 1552356549752,
             "changeTime": 1552359441130,
-            "contentHash": "091fa10e7023be027996b29fe458c4e87107587d"
+            "contentHash": "091fa10e7023be027996b29fe458c4e87107587d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 416,
             "modifiedTime": 1552356549752,
             "changeTime": 1552359441132,
-            "contentHash": "59aed9bbd883ae65cab31cb087edd10748418ecf"
+            "contentHash": "59aed9bbd883ae65cab31cb087edd10748418ecf",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/fields/Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 503,
             "modifiedTime": 1552356549752,
             "changeTime": 1552359441133,
-            "contentHash": "fbcb454a6c750b97a30257be81bfd1338f71af69"
+            "contentHash": "fbcb454a6c750b97a30257be81bfd1338f71af69",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/listViews/All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Space__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 431,
             "modifiedTime": 1552356549753,
             "changeTime": 1552359441121,
-            "contentHash": "3cc7caab7a894a940e301c9ab1e5afb28d293732"
+            "contentHash": "3cc7caab7a894a940e301c9ab1e5afb28d293732",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/listViews/All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 329,
             "modifiedTime": 1552356549746,
             "changeTime": 1552359429289,
-            "contentHash": "d7539dcc6512ab6244f02a5bf778612d3d8f7973"
+            "contentHash": "d7539dcc6512ab6244f02a5bf778612d3d8f7973",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 485,
             "modifiedTime": 1552356549746,
             "changeTime": 1552359416837,
-            "contentHash": "252c09e944868521f4e64869c124ecfaca186acc"
+            "contentHash": "252c09e944868521f4e64869c124ecfaca186acc",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 490,
             "modifiedTime": 1552356549747,
             "changeTime": 1552359441100,
-            "contentHash": "b3f1f59e79a252fb4c7deb4fc420e1efd273027e"
+            "contentHash": "b3f1f59e79a252fb4c7deb4fc420e1efd273027e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 491,
             "modifiedTime": 1552356549747,
             "changeTime": 1552359441096,
-            "contentHash": "6dcb70652fe25851d30fccdee1b562fb455d4be1"
+            "contentHash": "6dcb70652fe25851d30fccdee1b562fb455d4be1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 349,
             "modifiedTime": 1552356549747,
             "changeTime": 1552359441094,
-            "contentHash": "9db2ace381d9f362bf9797dad916f0d12c291fb5"
+            "contentHash": "9db2ace381d9f362bf9797dad916f0d12c291fb5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 349,
             "modifiedTime": 1552356549747,
             "changeTime": 1552359441091,
-            "contentHash": "03e689ff9cf95f66d23a5420b9726b6bb62ac8e2"
+            "contentHash": "03e689ff9cf95f66d23a5420b9726b6bb62ac8e2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 538,
             "modifiedTime": 1552356549748,
             "changeTime": 1552359441090,
-            "contentHash": "84a92a3e69e9ded2db6228bffa2e7408ed1a1018"
+            "contentHash": "84a92a3e69e9ded2db6228bffa2e7408ed1a1018",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 547,
             "modifiedTime": 1552356549748,
             "changeTime": 1552359441089,
-            "contentHash": "87827355e17ff3c81066046271b21548606ecc22"
+            "contentHash": "87827355e17ff3c81066046271b21548606ecc22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 488,
             "modifiedTime": 1552356549748,
             "changeTime": 1552359441093,
-            "contentHash": "649464af9a623a23b1eb4f19db7f6d0576d5ea3d"
+            "contentHash": "649464af9a623a23b1eb4f19db7f6d0576d5ea3d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 353,
             "modifiedTime": 1552356549748,
             "changeTime": 1552359441097,
-            "contentHash": "1dc1d29ea5f8f0ce4a1581c91718f90554b4cbf1"
+            "contentHash": "1dc1d29ea5f8f0ce4a1581c91718f90554b4cbf1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 353,
             "modifiedTime": 1552356549749,
             "changeTime": 1552359441098,
-            "contentHash": "052bccc3584aeb83f14580b240cb823dfbd76bd7"
+            "contentHash": "052bccc3584aeb83f14580b240cb823dfbd76bd7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 474,
             "modifiedTime": 1552356549749,
             "changeTime": 1552359441095,
-            "contentHash": "d0b268fd10ff464714fa4f61fcf84ea77f0a0426"
+            "contentHash": "d0b268fd10ff464714fa4f61fcf84ea77f0a0426",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Total_Number_of_Guests__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/fields/Total_Number_of_Guests__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 457,
             "modifiedTime": 1552356549749,
             "changeTime": 1552359441099,
-            "contentHash": "51aaa07b7b69e2d2c7497a02aa22bc4278190222"
+            "contentHash": "51aaa07b7b69e2d2c7497a02aa22bc4278190222",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/listViews/All.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/objects/Reservation__c/listViews/All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1552356549750,
             "changeTime": 1552359441086,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs/Space__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs/Space__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1552359757514,
+            "changeTime": 1552359757514,
+            "contentHash": "d87b4e0f1d268a4bf7a42974472c05f56d1b66e4"
+        }
+    ],
+    [
+        "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs/Reservation__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs/Reservation__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1552359757516,
+            "changeTime": 1552359757516,
+            "contentHash": "9f904ccd910c46e38ba70d710f5ab9ed32112103"
+        }
+    ],
+    [
+        "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs/Market__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs/Market__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1552359757517,
+            "changeTime": 1552359757517,
+            "contentHash": "27ae16900e378cc5cff484561347e8963cd32234"
+        }
+    ],
+    [
+        "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rigambella/Desktop/my_sfdx_project/myeslwc/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1552359757517,
+            "changeTime": 1552359757517,
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
         }
     ]
 ]
